@@ -2,7 +2,8 @@
 An app to enable real-time access to transportation on University campuses in Nigeria
 
 AIM AND OBJECTIVES
-	The main aim of the project is to reduce waiting time of transportation in Nigerian universities.
+
+The main aim of the project is to reduce waiting time of transportation in Nigerian universities.
 The Objective is to make it easier to request for a ‘KEKE’ ride for you and even your friends and normalizes the cost of a ride across campus.
 It allows you to track your ride and weigh your options on whether to wait or walk to your destination. It essentially makes the ‘KEKE’ driver aware of the location of customers, and vice versa.
 
